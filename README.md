@@ -46,9 +46,9 @@ A free collection of science calculators and reference tools built for scientist
 
 ---
 
-## ✍️ Blog
+## ✍️ [Blog](https://theonlinetoolkit.com/blog/)
 
-Tutorials, worksheets and articles covering a range of scientific concepts: [theonlinetoolkit.com/blog](https://theonlinetoolkit.com/blog/)
+Tutorials, worksheets and articles covering a range of scientific concepts.
 
 ---
 
