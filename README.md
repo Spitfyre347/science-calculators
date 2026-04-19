@@ -54,6 +54,6 @@ Tutorials, worksheets and articles covering a range of scientific concepts.
 
 ## About
 
-The Online Toolkit is forever free. No sign-up, no ads, no paywalls.
+The Online Toolkit is forever free. No sign-ups or paywalls.
 
 **Topics:** `chemistry` `science` `calculator` `physics` `thermodynamics` `periodic-table` `pH` `stoichiometry` `free-tools` `education`
